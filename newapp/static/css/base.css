@@ -1,0 +1,19 @@
+
+body {
+  background-image: url("../img.jpg");
+  height:100vh;
+  background-size: cover;
+  border-style: solid;
+  border-width: medium;
+}
+
+h1 {
+  color: Black;
+  text-align: center;
+  font-style: italic;
+  border-bottom: 5px hidden pink;
+}
+
+table {
+  table-layout: auto;
+}
